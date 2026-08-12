@@ -16,11 +16,11 @@ using namespace std;
 // If you have different pins, change below defines
 
 // Below table uses AD channels and not pin numbers
-#define cl_analog ADC1_CHANNEL_0_GPIO_NUM
-#define bl_analog ADC1_CHANNEL_3_GPIO_NUM
-#define piste_analog ADC1_CHANNEL_6_GPIO_NUM
-#define cr_analog ADC1_CHANNEL_7_GPIO_NUM
-#define br_analog ADC1_CHANNEL_4_GPIO_NUM
+#define cl_analog ADC1_CHANNEL_0
+#define bl_analog ADC1_CHANNEL_3
+#define piste_analog ADC1_CHANNEL_6
+#define cr_analog ADC1_CHANNEL_7
+#define br_analog ADC1_CHANNEL_4
 
 
 #define al_driver 33
